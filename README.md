@@ -16,7 +16,7 @@ Sub_metering_1: energy sub-metering No. 1 (in watt-hour of active energy). It co
 Sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.
 Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
 # Review criteria
-# Criteria
+## Criteria
 
 Was a valid GitHub URL containing a git repository submitted?
 Does the GitHub repository contain at least one commit beyond the original fork?
@@ -40,6 +40,7 @@ Keep an open mind and focus on the positive.≤/li>
 When in doubt, err on the side of giving too many points, rather than giving too few.
 Ask yourself if a plot might answer a question for the person who created it.
 Remember that not everyone has the same statistical background and knowledge.
+
 DON'T:
 
 Deduct just because you disagree with someone's statistical methods.
